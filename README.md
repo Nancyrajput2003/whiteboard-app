@@ -45,7 +45,7 @@ The application is desingned with a clean and user friendly interface.
   Run index.html in any modern browser 
 
   ## Author 
-  Developed by Nancy Rajput
+  Developed by Nancy Rajput.
   
 
     
