@@ -11,10 +11,10 @@ This project demonstrates the use of the HTML5 Canvas API and Javascript event h
   Organized and modular code structure 
 
 ## Technologies Used
-  HTML
-  CSS
-  JAVASCRIPT(ES6)
-  CANVAS API
+   HTML
+   CSS
+   JAVASCRIPT (ES6)
+   CANVAS API
 
 ## Concepts Applied
   DOM Manipulation
