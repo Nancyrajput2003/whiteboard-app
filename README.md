@@ -8,27 +8,32 @@ The application is desingned with a clean and user friendly interface.
 
 ## key Fetures   
   freehand drawing using mouse events  
-  Smooth brush strokes  
+  Smooth brush strokes   
   Clear canvas functionality
   Responsive layout
   Organized and modular code structure 
 
 ## Technologies Used
    HTML
+   
    CSS
+   
    JAVASCRIPT (ES6)
+   
    CANVAS API
 
 ## Concepts Applied
   DOM Manipulation
   Event Listeners
-  Canvas Rendering Context         
+  Canvas Rendering Context 
+  
   Mouse Event Handling
   Responsive UI Design
 
 ## How to Run the Project
   Clone the Repository
-  Open the project folder
+  Open the project folder 
+  
   Run index.html in any modern browser 
 
   ## Author 
