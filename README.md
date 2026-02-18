@@ -5,7 +5,8 @@ whiteboard app is an interactive drawing application developed using HTML,CSS an
 This project demonstrates the use of the HTML5 Canvas API and Javascript event handling to implement real time drawing functionality.The application is desingned with a clean and user friendly interface. 
 
 ## key Fetures   
-  freehand drawing using mouse events                                                                                                    Smooth brush strokes  
+  freehand drawing using mouse events  
+  Smooth brush strokes  
   Clear canvas functionality
   Responsive layout
   Organized and modular code structure 
